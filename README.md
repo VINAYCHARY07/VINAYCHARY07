@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinay Chary Nangunoori
 
-Software Engineer specializing in cloud solutions, big data technologies, and full-stack development.
+Software Engineer specializing in full-stack development, cloud solutions.
 
 ## 🚀 About Me
 - 🎓 MS in Applied Computer Science from Northwest Missouri State University in 2024.
